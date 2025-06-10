@@ -1,0 +1,12 @@
+com\EduardoMango\products\microservice\exceptions\ProductNotFoundException.class
+com\EduardoMango\products\microservice\config\SecurityConfig.class
+com\EduardoMango\products\microservice\model\Product$ProductBuilder.class
+com\EduardoMango\products\microservice\model\dto\ProductDTO.class
+com\EduardoMango\products\microservice\model\Product.class
+com\EduardoMango\products\microservice\services\listeners\ProductModelListener.class
+com\EduardoMango\products\microservice\controllers\ProductController.class
+com\EduardoMango\products\microservice\services\ProductService.class
+com\EduardoMango\products\microservice\ProductsMicroserviceApplication.class
+com\EduardoMango\products\microservice\model\hateoas\ProductModelAssembler.class
+com\EduardoMango\products\microservice\repositories\ProductRepository.class
+com\EduardoMango\products\microservice\config\EnvironmentConfig.class
